@@ -5,7 +5,19 @@
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python)
 
 <!-- Skill Icons -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=studio-natsu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studio-natsu)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=studio-natsu&show_icons=true&locale=en&layout=compact)
+
+## Library & Framework
+
+## Platforms
+
+## Tools
+
+## Sofrwares
+
+## Applications
 
 <!--
 **studio-natsu/studio-natsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
