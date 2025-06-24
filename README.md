@@ -2,10 +2,10 @@
 
 ## Programming Languages
 <!-- Most Used Languages -->
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python)
 
 <!-- Skill Icons -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
+![](https://github-readme-stats.vercel.app/api/top-langs?studio-natsu=yukimura-manase)
 
 <!--
 **studio-natsu/studio-natsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
