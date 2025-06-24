@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Programming Languages
+### Programming Languages
 <!-- Most Used Languages -->
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python)
 
@@ -9,15 +9,20 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=studio-natsu&show_icons=true&locale=en&layout=compact)
 
-## Library & Framework
+### Library & Framework
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-## Platforms
+### Platforms
+[![My Skills](https://skillicons.dev/icons?i=gcp,github)](https://skillicons.dev)
 
-## Tools
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,nextjs)](https://skillicons.dev)
 
-## Sofrwares
+### OS
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
-## Applications
+### Applications
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord)](https://skillicons.dev)
 
 <!--
 **studio-natsu/studio-natsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
