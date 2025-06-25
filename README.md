@@ -1,6 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Natsu 👋</h1>
 
-### Programming Languages
+## 🪴 About
+はじめまして！<br>
+MBTIは ENFJ-T（主人公タイプ）🌱  
+
+## 💡 What is this?
+このリポジトリには、自己学習で作成したアプリや、実績などをまとめています。  
+もし気づいた点やアドバイスなどあれば、お気軽にご連絡ください 🍃
+
+## 🛠 Skills
+### 💻Programming Languages
 <!-- Most Used Languages -->
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python)
 
@@ -9,20 +18,32 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=studio-natsu&show_icons=true&locale=en&layout=compact)
 
-### Library & Framework
+### 🧩Library & Framework
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-### Platforms
+### ☁️ Platforms
 [![My Skills](https://skillicons.dev/icons?i=gcp,github)](https://skillicons.dev)
 
-### Tools
+### 🧰 Tools
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,nextjs)](https://skillicons.dev)
 
-### OS
+### 🖥️ OS
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
-### Applications
+### ✨ Applications
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord)](https://skillicons.dev)
+
+## 🤍 Contact
+ご意見・ご質問などありましたら、お気軽にご連絡ください 🌸
+
+- GitHub: [studio-natsu](https://github.com/studio-natsu)  
+- Mail: studio.natsu72@email.com
+
+---
+
+<p align="center">
+  <sub>Thanks for visiting 🌿</sub><br/>
+
 
 <!--
 **studio-natsu/studio-natsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
