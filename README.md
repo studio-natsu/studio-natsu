@@ -16,8 +16,6 @@ MBTIは ENFJ-T（主人公タイプ）🌱
 <!-- Skill Icons -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studio-natsu)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=studio-natsu&show_icons=true&locale=en&layout=compact)
-
 ### 🧩Library & Framework
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
